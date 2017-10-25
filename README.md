@@ -4,7 +4,7 @@
 
 ### Clonando o Repositório
 
-`git clone https://github.com/didowscode/myfood-app-starter-master.git`
+`git clone https://github.com/didowscode/myfood-app-aula3-master.git`
 
 ### Instalando as Dependências
 
@@ -23,22 +23,6 @@
 ### Iniciando o serviço (raiz da aplicação)
 
 `json-server db.json`
-
-## Goodies
-
-Expressões regulares usadas na validação de formulários
-
-### Email Regex
-
-`/^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i`
-
-### Number Regex
-
-`/^[0-9]*$/`
-
-## Upgrade para Angular 4.3
-
-Dependências dos pacotes que devem ficar em package.json:
 
 ## Créditos
 
